@@ -7,7 +7,7 @@ import share from "../../assets/share.png";
 import save from "../../assets/save.png";
 import jack from "../../assets/jack.png";
 import user_profile from "../../assets/user_profile.jpg";
-import Video from "../../pages/Video/Video";
+// import Video from "../../pages/Video/Video";
 import { API_KEY, value_converter } from "../../data";
 import moment from "moment";
 import { useParams } from "react-router-dom";
