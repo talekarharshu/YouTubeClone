@@ -1,3 +1,4 @@
+
 .sidebar{
     background: #fff;
     width: 15%;
@@ -57,4 +58,5 @@
     .sidebar{
         display: none;
     }
+
 }

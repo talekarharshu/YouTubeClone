@@ -1,3 +1,4 @@
+
 import React, { useState } from "react";
 import "./Navbar.css";
 import menu_icon from "../../assets/menu.png";
@@ -56,3 +57,4 @@ const Navbar = ({ setSidebar }) => {
 };
 
 export default Navbar;
+

@@ -1,3 +1,4 @@
+
 import React from 'react'
 import './Sidebar.css'
 import home from '../../assets/home.png'
@@ -72,3 +73,4 @@ const Sidebar = ({sidebar,category,setCateory}) => {
 }
 
 export default Sidebar
+

@@ -1,3 +1,4 @@
+
 import React, { useEffect } from "react";
 import "./Recomended.css";
 import thumbnail1 from "../../assets/thumbnail1.png";
@@ -46,3 +47,4 @@ const Recomended = ({ categoryId }) => {
 };
 
 export default Recomended;
+

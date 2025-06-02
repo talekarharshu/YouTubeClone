@@ -1,3 +1,4 @@
+
 .recomended{
     flex-basis: 30%;
 }
@@ -22,4 +23,5 @@
     .recomended{
         flex-basis: 100%;
     }
+
 }
